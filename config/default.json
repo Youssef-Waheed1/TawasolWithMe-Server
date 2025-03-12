@@ -1,0 +1,4 @@
+{
+    "mongoConnectionString":"mongodb+srv://yghareeb2020:fYVKKZHccwj3LxuH@cluster0.x2n5o.mongodb.net/TawasolWithMe?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret":"jwtSecretToken"
+}
